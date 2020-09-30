@@ -1,3 +1,7 @@
+# Nama            : Akhmad Rizaldi Irvana
+# NIM             : 190411100128
+# Matakuliah      : Pemrograman Desktop C
+
 import math
 
 # No 1
